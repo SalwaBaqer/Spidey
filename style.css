@@ -1,0 +1,48 @@
+body {
+    text-align: center;
+    margin: 10 px;
+}
+
+.bor{
+
+    margin: 20px; /*between the img and surrounding*/
+
+    border-style: outset;
+    border-width: 10px; /* or 20px 30px */
+    border-color: teal;
+    border-radius: 50%; /*law a76 10% mara7 ykon circle bs kl ma azeed y9eer circle*/
+    padding:  10px; /*between the img and border w we can use % e.g. 10%*/
+
+    background-color: white; 
+    
+
+}
+
+
+h1{
+    color : rgb(17, 97, 50);
+    text-decoration: underline;
+}
+
+h3{
+    color :rgb(211, 39, 9);
+    font-size:large;
+}
+
+#myid{
+    color :rgb(46, 61, 201);
+}
+
+.spidey {
+    background-color: rgba(71, 218, 255, 0.322);
+    color: rgba(3, 8, 8, 0.507);
+    border: 2px solid rgb(180, 219, 36);
+   /* border-radius: 30%; */
+    margin: 10 px;
+    padding: 20px;}
+
+
+    .card{
+        margin: 10px 20px 10px 20px;
+        
+    }
